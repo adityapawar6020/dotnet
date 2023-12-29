@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bll/1.0.0": {
+        "dependencies": {
+          "Bol": "1.0.0",
+          "DAl": "1.0.0"
+        },
+        "runtime": {
+          "Bll.dll": {}
+        }
+      },
+      "Bol/1.0.0": {
+        "runtime": {
+          "Bol.dll": {}
+        }
+      },
+      "DAl/1.0.0": {
+        "dependencies": {
+          "Bol": "1.0.0"
+        },
+        "runtime": {
+          "DAl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

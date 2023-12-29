@@ -1,0 +1,17 @@
+C:\Users\IET\Desktop\Vikramandadi\Bll\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Vikramandadi\Bll\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Vikramandadi\Bll\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\IET\Desktop\Vikramandadi\Bll\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Vikramandadi\Bll\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\Vikramandadi\Bll\bin\Debug\net8.0\Bll.deps.json
+C:\Users\IET\Desktop\Vikramandadi\Bll\bin\Debug\net8.0\Bll.dll
+C:\Users\IET\Desktop\Vikramandadi\Bll\bin\Debug\net8.0\Bll.pdb
+C:\Users\IET\Desktop\Vikramandadi\Bll\bin\Debug\net8.0\Bol.dll
+C:\Users\IET\Desktop\Vikramandadi\Bll\bin\Debug\net8.0\DAl.dll
+C:\Users\IET\Desktop\Vikramandadi\Bll\bin\Debug\net8.0\DAl.pdb
+C:\Users\IET\Desktop\Vikramandadi\Bll\bin\Debug\net8.0\Bol.pdb
+C:\Users\IET\Desktop\Vikramandadi\Bll\obj\Debug\net8.0\Bll.csproj.CopyComplete
+C:\Users\IET\Desktop\Vikramandadi\Bll\obj\Debug\net8.0\Bll.dll
+C:\Users\IET\Desktop\Vikramandadi\Bll\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\IET\Desktop\Vikramandadi\Bll\obj\Debug\net8.0\Bll.pdb
+C:\Users\IET\Desktop\Vikramandadi\Bll\obj\Debug\net8.0\ref\Bll.dll
