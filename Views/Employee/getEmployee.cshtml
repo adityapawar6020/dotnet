@@ -1,0 +1,29 @@
+@using Bol;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+@{
+List<Employee> empdata=ViewData["key"] as List<Employee>;
+   
+    // List<Employee>employees=ViewData["employees"]as List<Employee>;
+
+<ol>
+          @foreach( Employee emp in empdata)
+          {
+            <li>
+                   @emp.Name @emp.Id
+            </li>
+            }
+ </ol>
+}
+
+
+
+
+
+
+</div>
